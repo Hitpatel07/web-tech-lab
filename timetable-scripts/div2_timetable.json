@@ -1,0 +1,57 @@
+{
+  "Monday": {
+    "H4": {
+      "undefined": "H4H5H6 (20IC313P) E214, JRS-P \r\nH4H5H6 (20IC405P) E212, RABH-P"
+    },
+    "H5": {
+      "undefined": "H4H5H6 (20IC313P) E214, JRS-P \r\nH4H5H6 (20IC405P) E212, RABH-P"
+    },
+    "H6": {
+      "undefined": "H4H5H6 (20IC313P) E214, JRS-P \r\nH4H5H6 (20IC405P) E212, RABH-P"
+    }
+  },
+  "Tuesday": {
+    "H4": {
+      "undefined": "H4H5H6 (22CDC006) E203, CDCT-L"
+    },
+    "H5": {
+      "undefined": "H4H5H6 (22CDC006) E203, CDCT-L"
+    },
+    "H6": {
+      "undefined": "H4H5H6 (22CDC006) E203, CDCT-L"
+    }
+  },
+  "Wednesday": {
+    "H4": {
+      "undefined": "H4H5H6 (23IC301T) E204, SHIV-L"
+    },
+    "H5": {
+      "undefined": "H4H5H6 (23IC301T) E204, SHIV-L"
+    },
+    "H6": {
+      "undefined": "H4H5H6 (23IC301T) E204, SHIV-L"
+    }
+  },
+  "Thursday": {
+    "H4": {
+      "undefined": "H4H5H6 (23IC301T) E204, SHIV-L"
+    },
+    "H5": {
+      "undefined": "H4H5H6 (23IC301T) E204, SHIV-L"
+    },
+    "H6": {
+      "undefined": "H4H5H6 (23IC301T) E204, SHIV-L"
+    }
+  },
+  "Friday": {
+    "H4": {
+      "undefined": "H6 (20IC316P) E212, MSK-P \r\nH4 (20IC304P) F-204, ARSO-P"
+    },
+    "H5": {
+      "undefined": "H4H5H6 (20IC316T) E201, MSK-L"
+    },
+    "H6": {
+      "undefined": "H6 (20IC316P) E212, MSK-P \r\nH4 (20IC304P) F-204, ARSO-P"
+    }
+  }
+}
