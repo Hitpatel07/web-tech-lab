@@ -7,9 +7,10 @@ const Navbar = () => {
     <nav className="navbar">
       <ul>
         <li><Link to="/">🏠 Home</Link></li>
-        <li><Link to="/timetable">📅 Timetable</Link></li>
-        <li><Link to="/grades">📊 Grades</Link></li>
-        <li><Link to="/about">ℹ️ About</Link></li>
+        <li><Link to="/custom-timetable ">📅 Timetable</Link></li>
+        <li><Link to="/grade-calculator">📊 Grades</Link></li>
+        <li><Link to="/subject-summary">ℹ️ Subjects</Link></li>
+        <li><Link to="/AboutPage">ℹ️ About</Link></li>
       </ul>
     </nav>
   );

@@ -1,0 +1,61 @@
+.timetable-container {
+    background: #ffffff;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.07);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .timetable-container h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #2563eb;
+    margin-bottom: 1.5rem;
+  }
+  
+  .timetable-container select {
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    padding: 0.5rem 1rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 1rem;
+    background: #f0f4ff;
+    transition: 0.3s;
+  }
+  
+  .timetable-container select:hover {
+    border-color: #2563eb;
+  }
+  
+  .timetable-container table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f9fbff;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .timetable-container th,
+  .timetable-container td {
+    padding: 12px;
+    border: 1px solid #dbeafe;
+    text-align: center;
+  }
+  
+  .timetable-container thead {
+    background-color: #dbeafe;
+    color: #1e40af;
+  }
+  
+  .timetable-container tbody tr:hover {
+    background-color: #eff6ff;
+    transition: background 0.3s ease;
+  }
+  
+  .timetable-container td {
+    font-size: 0.95rem;
+    color: #374151;
+  }
+  
